@@ -4,10 +4,10 @@ import functools
 import telemetry_module 
 
 # ------------------------------------------
-# STUDENT-SPECIFIC INPUTS (Change these to yours!)
+# STUDENT-SPECIFIC INPUTS 
 # ------------------------------------------
-LAST_NAME = "JERMSEGUNDO"            
-SEED_NUM = 72                   
+LAST_NAME = "SEGUNDO"            
+SEED_NUM = 2                   
 FAVORITE_ARTIST = "LANY"  
 
 
